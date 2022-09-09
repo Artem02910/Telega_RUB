@@ -85,3 +85,4 @@ def get_user_text(message):
 
 bot.polling(none_stop=True) #постоянная работа бота
 
+#Небольшой тест
